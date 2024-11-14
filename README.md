@@ -1,4 +1,4 @@
-# budget_project
+# Budget Project
 Budget Project
 
 We need to store all inquiry records on our personal budget from month to month. We want to store them in a Postgres DB with the following column structure:
