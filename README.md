@@ -5,8 +5,8 @@ We need to store all inquiries on our personal budget from month to month. We wa
 
 |Reference|Report Date|Creditor Name|Type of Business|Date of Inquiry|Credit Bureau|
 | :---------------- | :------: | ----: | ----: | ----: | ----: |
-
 |*VARCHAR(9)|*MM/DD/YYYY|VARCHAR(255)|**VACHAR(255)|MM/DD/YYYY|VARCHAR|
+
 *which will always be present
 **may sometimes be blank
 
