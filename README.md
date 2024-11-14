@@ -14,5 +14,5 @@ We need to store all inquiry records on our personal budget from month to month.
 
 **may sometimes be blank
 
-## Selector
+## Table Selector
 #Inquiries > table.rpt_content_table.rpt_content_header.rpt_content_contacts.ng-scope
