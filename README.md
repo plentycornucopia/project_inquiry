@@ -11,4 +11,5 @@ We need to store all inquiry records on our personal budget from month to month.
 * If 0, no record should be created. If ≤1, then create the corresponding record(s) in the DB.
 
 *must always be present
+
 **may sometimes be blank
