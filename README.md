@@ -19,7 +19,10 @@ We need to store all inquiry records on our personal budget from month to month.
 ## Data Table Selector
 `#Inquiries > table.rpt_content_table.rpt_content_header.rpt_content_contacts.ng-scope`
 
-## Postgres Data Schema
+## Data Table Example
+![Table Appears in HTML](file%20to%20be%20parsed%20-%20inquiries.png?raw=true "Table Appears in HTML")
+
+## Data Once Inputed to Postgres
 |Reference|Report Date|Creditor Name|Type of Business|Date of Inquiry|Credit Bureau|
 | :---------------- | :------: | ----: | ----: | ----: | ----: |
 |BR54898847|05/23/2024|BRCLYSBANKDE|Commercial Banks|04/03/2024|ChesterPA|
@@ -33,6 +36,3 @@ We need to store all inquiry records on our personal budget from month to month.
 |BR54898847|05/23/2024|CAPITAL ONE|Bank Credit Cards|02/11/2024|ChesterPA|
 |BR54898847|05/23/2024|NEBRASKA FURNITURE MAR|Furniture and Home/Office Funishings Stores|12/02/2023|AllenTX|
 |BR54898847|05/23/2024|SYNCB|Bank Credit Cards|02/03/2023|ChesterPA|
-
-## Data Table Example
-![Table Appears in HTML](file%20to%20be%20parsed%20-%20inquiries.png?raw=true "Table Appears in HTML")
