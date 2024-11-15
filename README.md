@@ -19,7 +19,7 @@ We need to store all inquiry records on our personal budget from month to month.
 ## Data Table Selector
 `#Inquiries > table.rpt_content_table.rpt_content_header.rpt_content_contacts.ng-scope`
 
-## Data Table Example
+## Screenshot of Data Table in HTML
 ![Table Appears in HTML](file%20to%20be%20parsed%20-%20inquiries.png?raw=true "Table Appears in HTML")
 
 ## Data Once Inputed to Postgres
