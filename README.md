@@ -1,7 +1,15 @@
 # Project: Inquiry
-Project: Inquiry
+We need a PHP solution to parse this HTML file uploaded by our family members. Each file will follow the same format, but the number of records inside may vary. Parsed data will be saved into a PostgreSQL database.
 
-We need to store all inquiry records on our personal budget from month to month. We want to store them in a Postgres DB with the following column structure:
+Requirements:
+* validate file size
+* validate by HTML MIME type
+* temporary storage can be used but must be terminated after successful storage
+* delivered file needs to independently function without the assistance of frameworks
+* vanilla PHP is the only acceptable approach
+* no frameworks to be used (like Laravel or Slim)
+
+We need to store all **inquiry** records on our personal budget from month to month. We want to store them in a Postgres DB with the following column structure:
 
 |Reference|Report Date|Creditor Name|Type of Business|Date of Inquiry|Credit Bureau|
 | :---------------- | :------: | ----: | ----: | ----: | ----: |
